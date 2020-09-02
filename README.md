@@ -4,6 +4,8 @@
 
 Custom shell é um script para a customização do shell que visa melhorar a visibilidade através de cores, e acrescentar algumas funcionalidades como “exit code” e visualização de branches do git. 
 
+![example](https://raw.githubusercontent.com/luanmorris/customshell/master/docs/term.png)
+
 ### Instalação.
 
 1. Faça o download dos arquivos.
