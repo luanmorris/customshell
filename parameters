@@ -43,4 +43,3 @@ exit_code() {
 	fi
 }
 
-PS1="[\[$COLOR_GREEN\]\u\[$COLOR_RESET\]@\h \[$COLOR_GREEN\]\W\[$COLOR_RESET\]\[$COLOR_RED\]\$(exit_code)\[$COLOR_RESET\]\[\$(git_color)\]\$(git_branch)\[$COLOR_RESET\]]\$ " 
